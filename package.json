@@ -1,0 +1,30 @@
+{
+  "name": "ksr_0",
+  "version": "1.0.0",
+  "description": "database api ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/super-git-1/ksr_0.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/super-git-1/ksr_0/issues"
+  },
+  "homepage": "https://github.com/super-git-1/ksr_0#readme",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.6.5",
+    "multer": "^1.4.5-lts.1",
+    "paypal-rest-sdk": "^1.8.1"
+  }
+}
